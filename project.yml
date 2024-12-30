@@ -1,0 +1,25 @@
+name: HackerBook
+
+options:
+  deploymentTarget:
+    iOS: 15.1
+
+targets:
+  HackerBook:
+    type: application
+    platform: iOS
+    sources:
+      - path: HackerBook
+        createIntermediateGroups: true
+    settings:
+      ENABLE_PREVIEWS: YES
+      DEVELOPMENT_ASSET_PATHS: "\"HackerBook/Preview Content\""
+      ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+      INFOPLIST_FILE: HackerBook/Info.plist
+      CODE_SIGN_ENTITLEMENTS: HackerBook/HackerBook.entitlements
+      DEVELOPMENT_TEAM: GW8XWHWQR7
+      CODE_SIGN_STYLE: Automatic
+      EXECUTABLE_NAME: HackerBook
+      PRODUCT_BUNDLE_IDENTIFIER: com.taox.hackerbook
+      PRODUCT_NAME: HackerBook
+      PRODUCT_MODULE_NAME: HackerBook

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en-US</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.8.1</string>
+	<key>CFBundleVersion</key>
+	<string>1.8.1</string>
+	<key>FacebookAppID</key>
+	<string>3582270978713315</string>
+	<key>FacebookClientToken</key>
+	<string>65bf106bd54685f79a247b78b5eed0c6</string>
+	<key>FacebookDisplayName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>GatewayDataSourceID</key>
+	<string>sg_v1_ds_73ba4bb4-be8e-4089-9b88-4c0f70d0df16</string>
+	<key>GatewayDomain</key>
+	<string>https://sg.1psdk.com</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This identifier will be used to deliver personalized content to you</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<true/>
+	</dict>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UILaunchScreen</key>
+		<dict/>
+	</dict>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>
